@@ -1,4 +1,3 @@
--------
-IRC-Bot
--------
-Authors: Lukas Burda, Matej Beranek
+#IRC BOT
+- Authors: Lukas Burda, Matej Beranek
+- Year: 2016
