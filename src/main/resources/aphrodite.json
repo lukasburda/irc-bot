@@ -1,0 +1,27 @@
+{
+    "maxThreadCount": "10",
+    "issueTrackerConfigs": [
+        {
+            "url": "https://bugzilla.redhat.com/",
+            "username": "id",
+            "password": "pass",
+            "tracker": "BUGZILLA",
+            "defaultIssueLimit": 1
+        },
+        {
+            "url": "https://issues.jboss.org",
+            "username": "id",
+            "password": "pass",
+            "tracker": "JIRA",
+            "defaultIssueLimit": 1
+        }
+    ],
+    "repositoryConfigs": [
+        {
+            "url": "https://github.com/",
+            "username": "id",
+            "password": "pass",
+            "type": "GITHUB"
+        }
+    ]
+}
